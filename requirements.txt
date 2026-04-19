@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+websockets
+pydantic
+huggingface_hub
+numpy
+safetensors
+sentencepiece
+protobuf
+transformers
+tiktoken
+blobfile
+einops
