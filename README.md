@@ -48,6 +48,6 @@ Deployment requires zero manual configuration. The pipeline will autonomously as
 
 ## Fiducialpoint
 
-Here at FiducialPoint we have as of recently deliberately refrained from publishing tech as a mathematically calculated defense against its malicious application. Unrestricted access to state-of-the-art intelligence architectures without ethical safeguards presents an unacceptable structural risk. 
+Here at FiducialPoint we have recently moved towards being more deliberate when publishing tech, a mathematically calculated defense preventing its malicious use. Unrestricted access to state-of-the-art intelligence architectures are an unacceptable risk to society when devoid of ethical safeguards.
 
 The systems actively under development are strictly engineered for mathematically sound, profoundly ethical human empowerment. While the complete architecture remains proprietary to ensure responsible deployment, localized utility modules—such as this one—are released to facilitate contained, secure research.
